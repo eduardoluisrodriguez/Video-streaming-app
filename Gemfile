@@ -55,5 +55,5 @@ end
 
 gem 'font-awesome-sass'
 gem 'figaro'
-gem "paperclip", "~> 5.0.0.beta1"
+gem "paperclip", "~> 5.2.0"
 gem 'aws-sdk', '>= 2.0'
